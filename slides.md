@@ -6,10 +6,6 @@ theme:
     default:
       colors:
         background: "282c34"
-    intro_slide:
-      title:
-        colors:
-          foreground: green
     footer:
       style: empty
 ---
@@ -78,7 +74,7 @@ Why I use Neovim
 * FUN
 <!-- new_line -->
 <!-- pause -->
-* Modal editing
+* Vim motions / Modal editing
 <!-- new_line -->
 <!-- pause -->
 * Personalized to do what I need
@@ -116,6 +112,14 @@ Corrected
 
 Demo
 ===
+<!-- pause -->
+* "IDE-like" features (LSP, Treesitter, Git integration, etc.)
+<!-- new_line -->
+<!-- pause -->
+* Vim motions
+<!-- new_line -->
+<!-- pause -->
+* Macros
 
 <!-- end_slide -->
 
